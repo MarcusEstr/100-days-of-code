@@ -19,6 +19,22 @@ Also also: Free web development learning using Ruby on Rails is available at [Th
 **Time:** 2 hours and 42 minutes. 
 
 
+### Day 2: May 11, Thursday
+
+**Today's Progress**: TRan through a handful of JavaScript stuff on FreeCodeCamp during lunch. Then, fussed around with Day 1 of the HackerRank #30DaysofCode thing. For some reason I'd believed that yesterday was day 1 - guess it was day 0. Completed that in both VB.Net and JavaScript. These are just what I am most comfortable in right now. 
+
+Also did a lot of un-timed researching about GitHub Pages for blogging. Maybe I'll jump back to that at some point, but it seems that honestly WordPress or Blogger would be better for my wishes at this point. Basically, I want to pursue something where I can just save my notes and have them TAGGED/easily accesible. Jekkyl is an interesting platform but one of its pitches is that it doesn't use a DB? But I love DBs lol. For now my notes will reside in Word documents. 
+
+Creating the card counter thing on FreeCodeCamp was an interesting little exercise. I'd like to push that further with something that is actually useful or has a GUI. 
+
+**Thoughts:** Here's what's up with 30DaysofCode - the notes and tutorials seem decently in depth but do not really tell you much of what you need to know. It is very far away from Codecademy/FreeCodeCamp which basically always gives you a sample very close to if not identical to what you'll need to do next. Both methods are valid ways to teach, with the former requiring a lot more outside research.
+
+That's already something I do often enough at work so it's familiar here. But for someone truly new to coding 100%, I could see this is absolutely a stopping point so early on. It's really disheartening, honestly. If you want to teach people to code you REALLY need to start slow in some instances. Slower than that. Oh well.
+
+**Time:** 2 hours and 27 minutes. 
+
+
+
 ### Day X: Month #, WeekDay
 
 **Today's Progress**: Text.
