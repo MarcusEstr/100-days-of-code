@@ -35,17 +35,29 @@ That's already something I do often enough at work so it's familiar here. But fo
 
 
 
-### Day 3: May 11, Friday
+### Day 3: May 12, Friday
 
 **Today's Progress**: Clocked nearly an hour each on 30 Days of Code day 2, Learn.co's JavaScript fundamentals and FreeCodeCamp JavaScript stuff. Of everything, it is starting to feel like 30 Days of Code may be the most useful to me, as after giving brief descriptions you are basically left to complete a task on your own. Then again, that's like how HackerRank seems to function in general.
 
 In comparison, as fun as FreeCodeCamp is, there's still the matter of practically being spoon-fed most of the time on the site. While you get stuff done you may not remember it.  I really need to go back and take more notes on my JavaScript stuff so far to keep track of it. Learn.co continues to bug me with its DOM focus - but that's probably actually a skill that is helpful - I just don't realize it yet.
 
-**Thoughts** I'd love to put in a lot more time if I weren't all sore feeling from poor posture or something?? Not sure where that came from, but that's an issue to resolve hopefully. May end up taking a bit of a "break" in order to reset myself to a good standing. But I really do want to get back to my site. And I really want to create a site for Mother's Day - but that wouldn't likely meet mmy standards in the time remaining. Well, unless I could pull an all-day/nighter but not with this pain!
+**Thoughts** I'd love to put in a lot more time if I weren't all sore feeling from poor posture or something?? Not sure where that came from, but that's an issue to resolve hopefully. May end up taking a bit of a "break" in order to reset myself to a good standing. But I really do want to get back to my site. And I really want to create a site for Mother's Day - but that wouldn't likely meet mmy standards in the time remaining. Well, unless I could pull an all-day/nighter but not with these aches. 
 
 **Time:** 2 hours and 49 minutes.
 
+### Day 4: May 13, Saturday
 
+**Today's Progress**: Text.
+
+**Thoughts** Welp I read one article about coding bootcamps and that showed me a host of other websites which offer coding challenges and tutorials/courses. So of course I sugned up for them all. Check the links below for easy reference... At the time of this writing I still have not received a registration/confirmation email from CodeEval, though, maybe that's for the best. I'm not at "that level" yet. 
+
+**Resources:**
+1. [Coderbyte](https://coderbyte.com/)
+2. [Codility](https://codility.com/programmers/)
+3. [Codewars](https://www.codewars.com/)
+4. [CodeEval](https://www.codeeval.com)
+5. [RubyMonk](https://rubymonk.com/)
+6. Tool: [repl.it](https://repl.it/)
 
 
 ### Day X: Month #, WeekDay
