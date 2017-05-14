@@ -47,12 +47,18 @@ In comparison, as fun as FreeCodeCamp is, there's still the matter of practicall
 
 ### Day 4: May 13, Saturday
 
-**Today's Progress**: Text.
+**Today's Progress**: Today I completed the Basic JavaScript and Object Oriented and Functional Programming sections of FreeCodeCamp. It was certainly more of a challenge than previous sections, but nothing that awful came up. Of course, that means up next are the Basic Algorithm Problems. Trying my best to take those carefully, but it's certainly annoying when Google searches yield a specific response to these questions. I'd rather it be like at work where searching yields tidbits of knowledge rather than a full on solution. Obviously trying to avoid seeking out full answers.
+
+Put in a bit of time with Learn.co, but I'm still unsure of this whole thing. The method of teaching is differnt. And while I Love the Learn.co IDE in theory, it's definitely showing its bugs. And, really, I should use my own IDE and GitHub if I'm serious about all this. For some reason I'm still having a lot of trouble wrapping my mind around the simple syntax, however. I'll get it figured out eventually. 
+
+HackerRank continues to be interesting, though I do wish I could push through more days quicker if possible. 
 
 **Thoughts** Welp I read one article about coding bootcamps and that showed me a host of other websites which offer coding challenges and tutorials/courses. So of course I sugned up for them all. Check the links below for easy reference... At the time of this writing I still have not received a registration/confirmation email from CodeEval, though, maybe that's for the best. I'm not at "that level" yet. 
 
+**Time:** 5 hours and 26 minutes.
+
 **Resources:**
-1. [Coderbyte](https://coderbyte.com/)
+1. [Coderbyte](https://coderbyte.com/) -- Really want to check out their "Learn X in one week" courses, as well as Bootcamp prep :P.
 2. [Codility](https://codility.com/programmers/)
 3. [Codewars](https://www.codewars.com/)
 4. [CodeEval](https://www.codeeval.com)
