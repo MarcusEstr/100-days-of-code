@@ -66,6 +66,21 @@ HackerRank continues to be interesting, though I do wish I could push through mo
 6. Tool: [repl.it](https://repl.it/)
 
 
+### Day 5: May 14, Sunday
+
+**Today's Progress**: Today I spent a fair amount of time fighting with the Learn.co IDE... Sort of. It does not seem to always update quickly, leading to failed builds despite being ready to go. In other occassions, I feel that my code will accomplish the goal but that they simply will only accept certain very specific things. It's annoying and counterintuitive to learning. And it's more of an issue than HackerRank's browser-based coding thing which still checks various test cases.
+
+Beyond that, day 4 of #30DaysOfCode was another fun day. Aside from the first day things have actually been really enjoyable on there. Another change I made to my workflow as to create a [Wordpress blog](http://marcuscript.wordpress.com). It will hold my solutions - as well as my #100DaysofCode updates. That's a good thing as the GitHub long would really become untenable before long.
+
+**Thoughts** My thoughts are that I'd really love to get a subscription to one learning site per month. The site must offer its video library to subscribers and (hopefully) also offer downloads to subscribers for me to choose them. 
+
+**Time: ** 3 hours and 4 minutes.
+
+**Resources**
+1. [Posting code blocks on Wordpress](https://css-tricks.com/posting-code-blocks-wordpress-site/)
+2. [Posting code source](https://en.support.wordpress.com/code/posting-source-code/)
+
+
 ### Day X: Month #, WeekDay
 
 **Today's Progress**: Text.
