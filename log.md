@@ -81,6 +81,19 @@ Beyond that, day 4 of #30DaysOfCode was another fun day. Aside from the first da
 2. [Posting code source](https://en.support.wordpress.com/code/posting-source-code/)
 
 
+### Day 6: May 15, Monday
+
+**Today’s Progress**: The majority of my time was spent between the free boot camps offered by Flatiron School and Lambda School. I wish as much time was not spent with those because I’d really love to get back to Free Code Camp’s algorithm labs. In any case, created three unattractive websites using HTML and CSS to meet the needs of my first Lambda School homework assignment.
+
+Flatiron School is currently focusing on arrays. These were my weak point in college though I did finally have a breakthrough with them on a C# project – and then apparently promptly forgot again. It’s not so awful this time around, though the Learn IDE continues to annoy me at times.
+
+#30 Days of Code was another easy one (mainly because I’m very accustomed to simple loops already).
+
+**Thoughts**: As stated earlier, it’d be nice to have a bit more time to get back going with Free Code Camp. There certainly won’t be 4 free hours (or even 2) once full time work starts up.
+
+**Time** 4 hours and 41 minutes.
+
+
 ### Day X: Month #, WeekDay
 
 **Today's Progress**: Text.
