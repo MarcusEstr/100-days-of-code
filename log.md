@@ -94,6 +94,35 @@ Flatiron School is currently focusing on arrays. These were my weak point in col
 **Time** 4 hours and 41 minutes.
 
 
+### Day 7: May 16, Tuesday
+
+**Today’s Progress**: Tried to do other things today, so that means my actual coding time was reduced from yesterday. Basically, I flamed out early on day 6 of #30DaysofCode. For reasons that are outlined in this post, it just really did not gel with me and I kept approaching the problem in an incorrect way. Fortunately, instead of just flailing and giving up, I made sure to truly understand the solution and feel a lot better for having spent all that time parsing out the logic and re-writing it as a post.
+
+Also tried to help out with folks enrolled or wanting to be enrolled in Lambda School’s free online mini bootcamp, and started along the front end developer path on bento.io.
+
+**Thoughts**: As keeps happening, I discovered many more resources for free online learning. The links are available below with comments about them in these paragraphs.
+
+So, TestOut looks like a certification authority which has a really robust set of online tools. Some certs are cheaper, but if you want access to all CompTIA A+ courses then you’ll have to pay $79 a month (which happens to be the same price of getting a plain old subscription to the entire site). So, if I go for this, might as well just get a comprehensive month subscription in case I feel like looking at their MOS cert stuff, too.
+
+Bento is a really neat concept. It features a path of learning based on curated online resources. Curation is the tough part for me, as I don’t know what is good and just end up trying out every single thing. Coursefriend seems like a more comprehensive curation effort but not all their nominated resources are free.
+
+I don’t know the first thing about Python (unless Ren’py had similar syntax?) so this Free Flask Tutorial is probably something I won’t get to for a while. On the other hand, this repository of the “You Don’t Know JS” series of books in draft format seems like awesome downtime reading.
+
+Finally, being afraid of Git is silly and this Git Tutorial looks like a friendly way to dip my feet in. There’s also some Codecademy course, right? So I’m not alone in needing to learn Git. Finally, MarkSheets is an HTML and CSS tutorial. Sure, I’m decent at all that already, but it never hurts to reinforce learning (or learn the specifics of HTML5).
+
+**References: **
+
+TestOut CompTIA A+ Training
+Bento.io
+Coursefriend
+Flask Tutorial
+You Don’t Know JS
+Git Tutorial
+MarkSheets
+
+**Time:** 3 hours and 7 minutes.
+
+
 ### Day X: Month #, WeekDay
 
 **Today's Progress**: Text.
